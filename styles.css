@@ -1,0 +1,29 @@
+.container {
+  background-color: powderblue;
+  height: 600px;
+  width: 600px;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 100px;
+  text-align: center;
+}
+.buttons {
+  text-align: center;
+}
+.positive {
+  color: green;
+}
+.negative {
+  color: red;
+}
+.zero {
+  color: black;
+}
